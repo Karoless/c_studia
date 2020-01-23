@@ -1,3 +1,11 @@
+/*Napisać program, który wypisze tabelkę wartości pierwiastka kwadratowego. Program ma pytać o
+
+    wartość poczatkową
+    wartość końcową
+    krok dla argumentu
+*/
+
+
 #include <stdio.h>
 #include <math.h>
 
